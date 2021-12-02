@@ -1,5 +1,5 @@
-# Simple Contact Apps Using Tkinter
-This project is simple contact apps that has made based on CRUD concept in database. Will be updated if there are many improvements in this application
+# Simple Form Apps Using Tkinter
+This project is simple form apps that has made based on CRUD concept in database. Although it still under development, I am still improving and making any ideas in the future.
 
 ### Required
 - Python
